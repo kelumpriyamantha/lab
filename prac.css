@@ -1,0 +1,23 @@
+body{
+
+    background-color:yellow;
+
+}
+h1{
+
+    color:red;
+    font-family:"Arial",sans-serif; 
+    font-size:40px;
+}
+h2{
+
+    font-style:italic;
+    font-size:30px;
+    color:blue;
+
+}
+u{
+
+   font-size:18px;
+
+}
